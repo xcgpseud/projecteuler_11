@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSearch", "GridSearch\GridSearch.csproj", "{8813756A-B0E4-4A36-B135-AF6FA2B658DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{2F7E605E-2934-41DC-8B0C-404341366D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{F4CAE15D-FC82-453D-BDBE-51E2657B9100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8813756A-B0E4-4A36-B135-AF6FA2B658DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8813756A-B0E4-4A36-B135-AF6FA2B658DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8813756A-B0E4-4A36-B135-AF6FA2B658DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8813756A-B0E4-4A36-B135-AF6FA2B658DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7E605E-2934-41DC-8B0C-404341366D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7E605E-2934-41DC-8B0C-404341366D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7E605E-2934-41DC-8B0C-404341366D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7E605E-2934-41DC-8B0C-404341366D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CAE15D-FC82-453D-BDBE-51E2657B9100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CAE15D-FC82-453D-BDBE-51E2657B9100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CAE15D-FC82-453D-BDBE-51E2657B9100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CAE15D-FC82-453D-BDBE-51E2657B9100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
